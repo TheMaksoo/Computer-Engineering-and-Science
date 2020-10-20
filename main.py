@@ -4,7 +4,7 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('TheMaksoo')
-
+    print("--------------")
 # Run exercise files
 exec(open("Exercise_1.py").read())
 exec(open("Exercise_2.py").read())

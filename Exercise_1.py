@@ -7,7 +7,7 @@ Sortedemployees = sorted(employees)
 
 # Prints employee list in alphabetical order
 print(Sortedemployees)
-
+print("--------------")
 # prints amount of employees
 print("employees =",len(Sortedemployees))
-
+print("--------------")
