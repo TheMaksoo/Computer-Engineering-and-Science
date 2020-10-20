@@ -7,5 +7,5 @@ if __name__ == '__main__':
 
 # Run exercise files
 exec(open("Exercise_1.py").read())
-
+exec(open("Exercise_2.py").read())
 
