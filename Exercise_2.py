@@ -4,9 +4,6 @@ employees = ("Max","Naru","Smol","Ginger","Devil","Bitz","Bear","Ruka","Khael","
 # sorts employees alphabetical
 Sortedemployees = sorted(employees)
 
-# Prints employee list in alphabetical order
-print(Sortedemployees)
-print("--------------")
 # Prints employee list in a list and aplhabetical order
 for x in Sortedemployees:
   print(x)
